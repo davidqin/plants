@@ -1,0 +1,27 @@
+body{ background-color: black; }
+
+canvas { width: 100%; height: 100% }
+
+div {
+    position: absolute;
+    width: 200px;
+    font-size: 30px;
+    text-align: center;
+    height: 210px;
+    top: 0;
+    left: 0;
+    color: white;
+    padding: 5px;
+}
+
+div img {
+  margin-top: 5px;
+}
+
+p{
+    position: absolute;
+    width: 300px;
+    color: white;
+    top: 0;
+    right: 0;
+}
